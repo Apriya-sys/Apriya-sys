@@ -1,13 +1,14 @@
 - 👋 Hi, I’m @Apriya-sys
-- Amudha Priya 
+  Amudha Priya 
 - 👀 I’m interested in ...
-- ai Based projects 
+ ai Based projects 
 - 🌱 I’m currently learning ...
-- Aiml learning ( generative ai ,chat gpt )
+  Aiml learning ( generative ai ,chat gpt )
 - 💞️ I’m looking to collaborate on ...
-- Interesting things (ai)
+ Interesting things (ai)
 - 📫 How to reach me ...
-- 📍 Bengaluru, Karnataka, India
+-  📍 Bengaluru, Karnataka, India
+  
 📧 ammusambanthar@gmail.com
   
 - 😄 Pronouns: ...
