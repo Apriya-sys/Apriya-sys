@@ -11,8 +11,8 @@
   
 📧 ammusambanthar@gmail.com
   
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄portfolio : https://ammusambanthar.wixsite.com/website
+- ⚡ blog: https://ammusambanthar.wixsite.com/learningsblog
 
 <!---
 Apriya-sys/Apriya-sys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
