@@ -10,6 +10,7 @@
 -  📍 Bengaluru, Karnataka, India
   
 📧 ammusambanthar@gmail.com and ammusambantahr@gmail.com
+    priyasambanthar@outlook.com  ammusambanthar@zohomail.in 
   
 - 😄portfolio : https://ammusambanthar.wixsite.com/website
 - ⚡ blog: https://ammusambanthar.wixsite.com/learningsblog
