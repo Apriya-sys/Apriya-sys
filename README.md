@@ -9,11 +9,16 @@
 - 📫 How to reach me ...
 -  📍 Bengaluru, Karnataka, India
 
-📧 ammusambanthar@gmail.com    priyasambanthar@outlook.com
+📧 ammusambanthar@gmail.com  
 
-    ammusambantahr@gmail.com   ammusambanthar@zohomail.in 
+    priyasambanthar@outlook.com
+
+    ammusambantahr@gmail.com  
+    
+    ammusambanthar@zohomail.in 
   
 - 😄portfolio : https://ammusambanthar.wixsite.com/website
+- 
                  https://amudhapriya-z30xxuy.gamma.site/
 - ⚡blog: https://ammusambanthar.wixsite.com/learningsblog
 -    https://www.kaggle.com/work/collections/15194850
