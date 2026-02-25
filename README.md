@@ -25,8 +25,8 @@
              
   ⚡blog: https://ammusambanthar.wixsite.com/learningsblog
 -    https://www.kaggle.com/work/collections/15194850
--    
-- -  https://www.credly.com/earner/earned/badge/148f0c7d-fd92-47af-a299-f7b11423053c  
+  
+-  https://www.credly.com/earner/earned/badge/148f0c7d-fd92-47af-a299-f7b11423053c  
   
    😍😍My apps(stream lite)
     
@@ -37,7 +37,7 @@
   - https://leagalcraftbysreevalli.streamlit.app/
   - https://pitchelevatesbysreevalli.streamlit.app/
   - https://imageprocessingfilteringsreevalli.streamlit.app/
-  - 
+    
     💕My medium s
 - https://medium.com/@ammusambanthar/creation-and-usecase-for-filled-maps-in-power-bi-e728247cc5b7
 - https://medium.com/@ammusambanthar/how-to-create-a-date-time-or-datemaster-table-with-1-hour-increments-on-each-row-using-dax-dd2bb5bab0a3
@@ -59,7 +59,7 @@
 - https://medium.com/@ammusambanthar/count-of-files-in-one-lakehouse-using-set-variable-x-a943c2885ca4
 - https://medium.com/@ammusambanthar/microsoft-fabric-api-for-graphql-with-stored-procedures-9258ebfec15e
 - https://medium.com/@ammusambanthar/deploy-a-copy-pipeline-activity-through-the-fabric-sql-database-using-the-fabric-command-line-ba65e9ad8f53
-- 
+  
 <!---
 Apriya-sys/Apriya-sys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
