@@ -11,11 +11,13 @@
 
 📧 ammusambanthar@gmail.com  
 
- 📧 priyasambanthar@outlook.com
+📧 priyasambanthar@outlook.com
 
-    ammusambantahr@gmail.com  
+
+📧  ammusambantahr@gmail.com  
+
     
-    ammusambanthar@zohomail.in 
+📧  ammusambanthar@zohomail.in 
   
 - 😄portfolio : https://ammusambanthar.wixsite.com/website
 - 
