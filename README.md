@@ -11,7 +11,7 @@
 
 📧 ammusambanthar@gmail.com  
 
-    priyasambanthar@outlook.com
+ 📧 priyasambanthar@outlook.com
 
     ammusambantahr@gmail.com  
     
