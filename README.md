@@ -23,12 +23,12 @@
 - https://amudhapriya-z30xxuy.gamma.site
 
              
-- ⚡blog: https://ammusambanthar.wixsite.com/learningsblog
+  ⚡blog: https://ammusambanthar.wixsite.com/learningsblog
 -    https://www.kaggle.com/work/collections/15194850
 -    
 - -  https://www.credly.com/earner/earned/badge/148f0c7d-fd92-47af-a299-f7b11423053c  
   
-  - 😍😍My apps(stream lite)
+   😍😍My apps(stream lite)
     
   - https://liveweatherapp.streamlit.app/ open ai 
   - https://tamilstorygenerator-2025.streamlit.app/-----together api
@@ -38,7 +38,7 @@
   - https://pitchelevatesbysreevalli.streamlit.app/
   - https://imageprocessingfilteringsreevalli.streamlit.app/
   - 
-  - 💕My medium s
+    💕My medium s
 - https://medium.com/@ammusambanthar/creation-and-usecase-for-filled-maps-in-power-bi-e728247cc5b7
 - https://medium.com/@ammusambanthar/how-to-create-a-date-time-or-datemaster-table-with-1-hour-increments-on-each-row-using-dax-dd2bb5bab0a3
 - https://medium.com/@uzuntasgokberk/understanding-dataflow-gen2-in-microsoft-fabric-and-comparison-with-dataflow-gen1-18de2e547087
