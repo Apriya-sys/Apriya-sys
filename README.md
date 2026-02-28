@@ -59,6 +59,7 @@
 - https://medium.com/@ammusambanthar/count-of-files-in-one-lakehouse-using-set-variable-x-a943c2885ca4
 - https://medium.com/@ammusambanthar/microsoft-fabric-api-for-graphql-with-stored-procedures-9258ebfec15e
 - https://medium.com/@ammusambanthar/deploy-a-copy-pipeline-activity-through-the-fabric-sql-database-using-the-fabric-command-line-ba65e9ad8f53
+- https://medium.com/p/how-to-extract-data-from-web-page-using-power-automate-c829eff49d2b?source=social.linkedin&_nonce=88Qdzdc3
   
 <!---
 Apriya-sys/Apriya-sys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
